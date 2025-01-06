@@ -1,5 +1,3 @@
-
-
 <!--
 **heralk21/heralk21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +19,11 @@ Welcome to my **GitHub Profile** 🚀
 - 📚 **Third-Year Math Major at UBC**  
 - 📫 **How to reach me:** [heralk21@student.ubc.ca](mailto:heralk21@student.ubc.ca)  
 
-<h2 align="left">Languages and Tools:</h2>
-[![Languages and Tools](https://skillicons.dev/icons?i=js,react,express,nodejs,java,cpp,html,css,mysql,py)]()
-<h2 align="left">📬 Connect with me:</h2>
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/heral-kumar/)
+## 🔧 **Languages and Tools:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 📬 **Connect with me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heral-kumar/)
