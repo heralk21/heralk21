@@ -27,3 +27,6 @@ Welcome to my **GitHub Profile** 🚀
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/heral-kumar/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:heralk21@student.ubc.ca)
 
+## 👩🏼‍🎨 **Visit my portfolio website:**
+[www.heralkumar.com](https://heralkumar.com/)
+
